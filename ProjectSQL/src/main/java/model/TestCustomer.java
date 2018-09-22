@@ -6,6 +6,7 @@ import java.sql.ResultSet;
 
 public class TestCustomer {
 
+	//This is a main Function
 	public static void main(String[] args) {
 		
 		try
